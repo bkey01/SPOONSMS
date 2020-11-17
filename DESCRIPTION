@@ -1,0 +1,19 @@
+#INSTALASI TERMUX TERLEBIH DAHULU !
+$ pkg install python
+$ pkg install git
+$ pkg install python-pip
+$ pip install style
+$ pip install requests
+$ pip install websocket-client
+
+# satu lagi #
+
+termux-setup-storage {LALU TEKAN IZINKAN} GUNA SDCARD SEMISAL KALIAN DOWNLOAD FILE NYA
+kalau udah instalasi termux kalian ketik git clone ,Dan kalian copas Link nya in description Yt !
+$ git clone https://github.com/bkey2/SPOONSMS.git
+$ cd SPOONSMS
+$ python spoonsms.py
+{[done]} SILAHKAN SELAMAT MENIKMATI TOLLS NYA!😊
+© YT CHANNELS YANZ OI OI
+ig promosi: @yayan_funny
+===================================================================================================
